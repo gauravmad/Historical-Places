@@ -190,6 +190,12 @@ footer{
     #fade-in2{
         animation: none;
     }
+    li{
+        font-size: 18px;
+    }
+    li.active{
+        margin-right: 4px;
+    }
 }
 h4{
     font-size: 17px;
